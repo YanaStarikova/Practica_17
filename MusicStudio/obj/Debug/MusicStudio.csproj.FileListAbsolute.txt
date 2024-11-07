@@ -1,0 +1,40 @@
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.exe.config
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.exe
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.pdb
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.AssemblyReference.cache
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form1.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Properties.Resources.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.GenerateResource.cache
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.CoreCompileInputs.cache
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.exe
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.pdb
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form3.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form4.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Review.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form2.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabAdmin.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabClient.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form5.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form6.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabTeacher.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.exe.config
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.exe
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\bin\Debug\MusicStudio.pdb
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.AssemblyReference.cache
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabAdmin.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form1.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabClient.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form2.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form3.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form4.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form5.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Form6.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Properties.Resources.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Review.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.CabTeacher.resources
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.GenerateResource.cache
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.csproj.CoreCompileInputs.cache
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.exe
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.pdb
+C:\Users\Yana\Desktop\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Report.resources
+H:\УП 02.01\Зад_4\MusicStudio\MusicStudio\obj\Debug\MusicStudio.Report.resources
